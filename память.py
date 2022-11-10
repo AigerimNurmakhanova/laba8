@@ -6,4 +6,4 @@ var4=False
 print(sys.getsizeof(var1)) 
 print(sys.getsizeof(var2)) 
 print(sys.getsizeof(var3))
-print(sys.getsizeof(var4))
+print(sys.getsizeof(var4));
